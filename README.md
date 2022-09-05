@@ -1,0 +1,2 @@
+# ClassAdBlocker
+classだけでadBlockの対策をする
